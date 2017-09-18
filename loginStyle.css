@@ -1,0 +1,25 @@
+
+
+.col-md-12{
+    margin-top: 10px;
+    
+}
+input{
+    margin-top: 10px;
+}
+button{
+    width:120px;
+}
+.main{
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-top-style: solid;
+    border-bottom-style:solid; 
+    border-bottom-color: grey;
+    border-top-color: grey;
+}
+
+
+
+
+
