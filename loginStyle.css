@@ -17,6 +17,11 @@ button{
     border-bottom-style:solid; 
     border-bottom-color: grey;
     border-top-color: grey;
+   
+}
+.container{
+    margin: 0px auto;
+    margin-top: 200px;
 }
 
 
