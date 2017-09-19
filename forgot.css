@@ -1,0 +1,20 @@
+.btn-form{
+    text-align: center;
+    margin: 0px auto;
+    display: table;
+    margin-top: 10px;
+}
+.btn-form ul li{
+    float: left;
+    list-style: none;
+}
+.btn-cancel{
+    padding-left: 10px;
+}
+
+.btn-cancel a{
+    vertical-align: -webkit-baseline-middle;
+}
+li button{
+    margin-left: -45px;
+}
